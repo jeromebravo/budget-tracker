@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://localhost/expense_tracker",
+    "jwtSecret": "secretkey"
+}
